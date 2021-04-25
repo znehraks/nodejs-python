@@ -1,0 +1,12 @@
+{
+  "name": "node-python",
+  "version": "1.0.0",
+  "description": "python-node",
+  "main": "index.js",
+  "author": "znehraks",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "python-shell": "^2.0.0"
+  }
+}
